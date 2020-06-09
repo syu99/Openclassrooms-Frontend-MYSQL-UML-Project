@@ -14,7 +14,7 @@
 
 
 ### Diagramme de package
-![diagPack](img/5diagpack.png)
+![diagPack](img/5diapack.png)
 
 ### Diagrammes de cas d'utilisation
 ![diagCasDef](img/6diacasuti.png)
