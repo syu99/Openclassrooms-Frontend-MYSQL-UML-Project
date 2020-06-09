@@ -1,4 +1,8 @@
-# * SCHEMAS UML E X P R E S S F O O D*
+
+Voici un projet d'étude qui démontre mon savoir faire avec le Langage de Modélisation Unifié  
+ainsi que la géstion d'une base de donnée SQL.
+
+# * SCHEMAS UML EXPRESSFOOD*
  ![logo](img/1expressfood.png)
 
 
