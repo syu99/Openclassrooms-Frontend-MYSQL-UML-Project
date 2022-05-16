@@ -1,5 +1,5 @@
 
-Voici un projet d'étude qui démontre mon savoir faire avec le Langage de Modélisation Unifié  
+Voici un projet d'étude avec le Langage de Modélisation Unifié  
 ainsi que la géstion d'une base de donnée SQL.
 
 # * SCHEMAS UML EXPRESSFOOD*
